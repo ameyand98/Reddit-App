@@ -22,10 +22,10 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.simplexml.SimpleXmlConverterFactory;
-import tabian.com.redditapp.Account.LoginActivity;
-import tabian.com.redditapp.Comments.CommentsActivity;
-import tabian.com.redditapp.model.Feed;
-import tabian.com.redditapp.model.entry.Entry;
+import com.example.redditapp.Account.LoginActivity;
+import com.example.redditapp.Comments.CommentsActivity;
+import com.example.redditapp.Model.Feed;
+import com.example.redditapp.Model.entry.Entry;
 
 public class MainActivity extends AppCompatActivity {
 
