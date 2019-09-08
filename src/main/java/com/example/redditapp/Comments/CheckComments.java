@@ -3,7 +3,7 @@ package com.example.redditapp.Comments;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
-public class CheckComment {
+public class CheckComments {
 
     @SerializedName("success")
     @Expose
